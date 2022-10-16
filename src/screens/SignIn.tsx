@@ -8,7 +8,7 @@ export function SignIn() {
       {/* <Logo /> */}
 
       <Heading color="gray.100" fontSize="xl" mt={20} mb={6}>
-        Acesse sua conta
+        Acesse sua conta!
       </Heading>
 
     </VStack>
